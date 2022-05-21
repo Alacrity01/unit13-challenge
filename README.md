@@ -1,2 +1,1 @@
-*ClusteringCrypto* assignment submission. (AWS Lex / RoboAdvisor incomplete; not primary submission)
-
+### ***[ClusteringCrypto](https://github.com/Alacrity01/unit13-challenge/blob/main/ClusteringCrypto/crypto_clustering.ipynb)*** assignment submission. (AWS Lex / RoboAdvisor incomplete; not primary submission)
